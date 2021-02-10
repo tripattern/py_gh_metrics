@@ -1,5 +1,8 @@
 # py_gh_metrics
 
+## Dev Notes
+* All test functions must start with the word 'test'
+
 ## Setup Dev Environment
 * Setup Github Access Token
   * https://github.com/settings/tokens/new
