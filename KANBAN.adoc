@@ -11,6 +11,7 @@ a|
 
 // WIP
 a|
+* TASK: Create python object containing static json content from github call
 * TASK: Remove dependency on live rest call for unit test
 
 // DONE
