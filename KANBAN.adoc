@@ -1,0 +1,25 @@
+= Project Kanban Board
+
+//.project kanban board
+[options=header]
+|===
+|TODO|WIP|DONE
+
+
+// TODO
+a|
+* xref:./docs/pbis/storyCountDailyCommitsPerDeveloper.adoc[STORY: Count daily commits per developer]
+
+
+// WIP
+a|
+* TASK: Remove dependency on live rest call for unit test
+
+// DONE
+a|
+* TASK: Create curl test
+* TASK: Setup project
+* TASK: Create simple unit test
+* TASK: Create simple test call to github from code
+|
+|===
