@@ -1,7 +1,7 @@
 = Project Kanban Board
 
 //.project kanban board
-[options=header]
+[options=header,cols=".<,.<,.<"]
 |===
 |TODO|WIP|DONE
 
