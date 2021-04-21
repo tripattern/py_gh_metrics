@@ -13,12 +13,21 @@ a|
 
 // WIP
 a|
-* TASK: Remove dependency on live rest call for unit test
 
+[sidebar]
+--
+* TASK: Remove dependency on live rest call for unit test
+--
 // DONE
 a|
+[sidebar]
+--
 * TASK: Create curl test
+--
+[sidebar]
+--
 * TASK: Setup project
+--
 * TASK: Create simple unit test
 * TASK: Create simple test call to github from code
 |
