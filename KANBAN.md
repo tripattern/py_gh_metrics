@@ -2,6 +2,6 @@
 
 | TODO | WIP | DONE |
 | --- | --- | --- |
-|| Create simple test call to github from code | Create curl test |
-||| Setup project |
-||| Create simple unit test |
+| [STORY: Count commits per developer]()  | TASK: Create simple test call to github from code | TASK: Create curl test |
+|  |  | TASK: Setup project |
+|  |  | TASK: Create simple unit test |
