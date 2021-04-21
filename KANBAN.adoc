@@ -5,29 +5,18 @@
 |===
 |TODO|WIP|DONE
 
-
 // TODO
 a|
 * xref:./docs/pbis/storyCountDailyCommitsPerDeveloper.adoc[STORY: Count daily commits per developer]
 
-
 // WIP
 a|
-
-[sidebar]
---
 * TASK: Remove dependency on live rest call for unit test
---
+
 // DONE
 a|
-[sidebar]
---
 * TASK: Create curl test
---
-[sidebar]
---
 * TASK: Setup project
---
 * TASK: Create simple unit test
 * TASK: Create simple test call to github from code
 |
